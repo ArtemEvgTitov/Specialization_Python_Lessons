@@ -1,6 +1,7 @@
 min_limit = 0
 max_limit = 10
 count = 3
+num = None
 
 while count > 0:
     print('Попытка ', count)
